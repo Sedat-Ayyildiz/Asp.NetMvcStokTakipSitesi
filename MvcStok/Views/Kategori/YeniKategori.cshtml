@@ -1,0 +1,21 @@
+﻿@model MvcStok.Models.Entity.TblKategoriler
+@{
+    ViewBag.Title = "YeniKategori";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<!--LABEL veya TEXTBOX işlemlerinde VERİLERİN VT'de ki adına sürekli bakmak yerine veya hatalı yazmak yerine LINQ ile yazmak daha mantıklı-->
+<form class="form-group" method="post">
+    @*<div>//Yol-1
+            <label>Kategori Adı :</label>
+            <input type="text" class="form-control" name="KATEGORIAD" />
+        </div>*@
+    <div>
+        <label>Kategori Adı</label>
+        @Html.TextBoxFor(m => m.KATEGORIAD, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.KATEGORIAD, "", new { @style = "color:red" })
+    </div>
+    <div style="margin-top:15px">
+        <button class="btn btn-info">Kategori Ekle</button>
+    </div>
+</form>

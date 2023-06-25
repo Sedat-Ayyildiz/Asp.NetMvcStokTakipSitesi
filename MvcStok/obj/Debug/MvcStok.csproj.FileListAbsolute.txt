@@ -1,0 +1,432 @@
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\MvcStok.dll.config
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\MvcStok.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\MvcStok.pdb
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\csc.exe
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\csc.exe.config
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\csc.rsp
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\csi.exe
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\csi.exe.config
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\csi.rsp
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.AppContext.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Console.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.IO.Compression.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Security.Claims.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.ValueTuple.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\vbc.exe
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\vbc.exe.config
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\vbc.rsp
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\VBCSCompiler.exe
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\Antlr3.Runtime.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\EntityFramework.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\EntityFramework.SqlServer.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\Newtonsoft.Json.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.Helpers.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.Mvc.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.Optimization.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.Razor.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.WebPages.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.WebPages.Razor.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\WebGrease.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\EntityFramework.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\EntityFramework.SqlServer.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.Helpers.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.Mvc.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.Optimization.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.Razor.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.WebPages.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\System.Web.WebPages.Razor.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\Newtonsoft.Json.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\Antlr3.Runtime.pdb
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\obj\Debug\MvcStok.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\MvcStok\MvcStok\obj\Debug\MvcStok.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\MvcStok\MvcStok\obj\Debug\MvcStok.csproj.CopyComplete
+C:\Users\sedat\source\repos\MvcStok\MvcStok\obj\Debug\MvcStok.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\obj\Debug\MvcStok.pdb
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\PagedList.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\PagedList.Mvc.dll
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\PagedList.xml
+C:\Users\sedat\source\repos\MvcStok\MvcStok\bin\PagedList.Mvc.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\MvcStok.dll.config
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\MvcStok.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\MvcStok.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\csc.exe
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\csc.exe.config
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\csc.rsp
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\csi.exe
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\csi.exe.config
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\csi.rsp
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.AppContext.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Console.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.IO.Compression.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Security.Claims.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.ValueTuple.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\vbc.exe
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\vbc.exe.config
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\vbc.rsp
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\VBCSCompiler.exe
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\Antlr3.Runtime.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\EntityFramework.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\EntityFramework.SqlServer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\Newtonsoft.Json.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\PagedList.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\PagedList.Mvc.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.Helpers.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.Mvc.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.Optimization.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.Razor.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.WebPages.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.WebPages.Razor.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\WebGrease.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\EntityFramework.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\EntityFramework.SqlServer.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\PagedList.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\PagedList.Mvc.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.Helpers.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.Mvc.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.Optimization.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.Razor.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.WebPages.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\System.Web.WebPages.Razor.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\Newtonsoft.Json.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\Antlr3.Runtime.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\obj\Debug\MvcStok.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\obj\Debug\MvcStok.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\obj\Debug\MvcStok.csproj.CopyComplete
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\obj\Debug\MvcStok.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\2-) ASP.NET MVC PROJELERİ\2-) MVC5 - STOK PROJESİ\MvcStok\obj\Debug\MvcStok.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\MvcStok.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\MvcStok.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\MvcStok.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csi.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csi.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csi.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.AppContext.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Console.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Claims.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\vbc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\vbc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\vbc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Antlr3.Runtime.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\EntityFramework.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\EntityFramework.SqlServer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Newtonsoft.Json.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\PagedList.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\PagedList.Mvc.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Helpers.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Mvc.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Optimization.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\WebGrease.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\EntityFramework.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\EntityFramework.SqlServer.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\PagedList.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\PagedList.Mvc.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Helpers.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Mvc.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Optimization.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Newtonsoft.Json.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Antlr3.Runtime.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.2-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\MvcStok.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\MvcStok.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\MvcStok.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csi.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csi.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\csi.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.AppContext.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Console.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Claims.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\vbc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\vbc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\vbc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Antlr3.Runtime.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\EntityFramework.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\EntityFramework.SqlServer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Newtonsoft.Json.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\PagedList.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\PagedList.Mvc.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Helpers.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Mvc.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Optimization.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\WebGrease.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\EntityFramework.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\EntityFramework.SqlServer.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\PagedList.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\PagedList.Mvc.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Helpers.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Mvc.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Optimization.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\System.Web.WebPages.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Newtonsoft.Json.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Antlr3.Runtime.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.3-) MVC5 - Stok Projesi\MvcStok\obj\Debug\MvcStok.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\MvcStok.dll.config
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\MvcStok.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\MvcStok.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\csc.exe
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\csc.exe.config
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\csc.rsp
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\csi.exe
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\csi.exe.config
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\csi.rsp
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.AppContext.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Console.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Security.Claims.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\vbc.exe
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\vbc.exe.config
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\vbc.rsp
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Antlr3.Runtime.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\EntityFramework.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\EntityFramework.SqlServer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Newtonsoft.Json.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\PagedList.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\PagedList.Mvc.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.Helpers.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.Mvc.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.Optimization.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.Razor.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.WebPages.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.WebPages.Razor.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\WebGrease.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\EntityFramework.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\EntityFramework.SqlServer.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\PagedList.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\PagedList.Mvc.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.Helpers.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.Mvc.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.Optimization.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.Razor.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.WebPages.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\System.Web.WebPages.Razor.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Newtonsoft.Json.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Antlr3.Runtime.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\obj\Debug\MvcStok.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\obj\Debug\MvcStok.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\obj\Debug\MvcStok.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\obj\Debug\MvcStok.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\Asp.NetMvcStokSitesi\MvcStok\obj\Debug\MvcStok.pdb

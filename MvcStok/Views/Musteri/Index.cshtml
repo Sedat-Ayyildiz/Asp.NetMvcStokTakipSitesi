@@ -1,0 +1,39 @@
+﻿@using MvcStok.Models.Entity
+@model List<TblMusteriler>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<!--SEARCH PANELİ OLUŞTURDUK !-->
+@using (Html.BeginForm("Index", "Musteri", FormMethod.Get))
+{
+    <i><b>Aranacak Müşteri Adı :</b> @Html.TextBox("m")</i><!--Parantez içine MusteriController ActionResult parametresinde tanımlanan değer yazılır !-->
+    <input type="submit" value="Ara" />
+}<br />
+
+<table class="table table-bordered">
+    <tr>
+        <th>MÜŞTERİ ID</th>
+        <th>MÜŞTERİ ADI</th>
+        <th>MÜŞTERİ SOYADI</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+        <th>ALERT</th>
+    </tr>
+    <tbody>
+        <!--Müşteri Tablosunda ki verilerimizi Döngü ile mstr değişkenimize atadık ve Müşterilerimizi Listeledik-->
+        @foreach (var mstr in Model)
+        {
+            <tr>
+                <th>@mstr.MUSTERIID</th>
+                <td>@mstr.MUSTERIAD</td>
+                <td>@mstr.MUSTERISOYAD</td>
+                <td><a href="/Musteri/SİL/@mstr.MUSTERIID" class="btn btn-danger">SİL</a></td>
+                <td><a href="/Musteri/MusteriGetir/@mstr.MUSTERIID" class="btn btn-success">GÜNCELLE</a></td>
+                <!--SİLME İŞLEMİNİ ALERT OLARAK YAPTIK FARKLI BİR BUTONLA-->
+                <td>@Html.ActionLink("SİL BUTONU", "SİL", new { id = @mstr.MUSTERIID }, new { @class = "btn btn-warning", onclick = "return confirm('Gerçekten Silmek İstiyor musunuz ?')" })</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Musteri/YeniMusteri/" class="btn btn-primary">Yeni Müşteri Ekle</a>
